@@ -44,6 +44,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.23.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

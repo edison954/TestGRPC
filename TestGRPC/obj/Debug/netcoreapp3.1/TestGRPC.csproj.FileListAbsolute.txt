@@ -25,3 +25,4 @@ D:\_git\grpc\TestGRPC\TestGRPC\obj\Debug\netcoreapp3.1\staticwebassets\TestGRPC.
 D:\_git\grpc\TestGRPC\TestGRPC\obj\Debug\netcoreapp3.1\TestGRPC.dll
 D:\_git\grpc\TestGRPC\TestGRPC\obj\Debug\netcoreapp3.1\TestGRPC.pdb
 D:\_git\grpc\TestGRPC\TestGRPC\obj\Debug\netcoreapp3.1\TestGRPC.genruntimeconfig.cache
+D:\_git\grpc\TestGRPC\TestGRPC\obj\Debug\netcoreapp3.1\TestGRPC.csprojAssemblyReference.cache
